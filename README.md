@@ -49,9 +49,4 @@ This project aims to predict house prices in Bengaluru using a dataset of real e
 
 ---
 
-## 🚀 How to Run
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/bengaluru-house-price-predictor.git
-   cd bengaluru-house-price-predictor
